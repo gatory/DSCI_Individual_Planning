@@ -1,2 +1,2 @@
 # README
-## This is the individual planning poriton of the group project
+## This is the individual planning portion of the group project
